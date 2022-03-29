@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @rjaindeveloper
-- 🌱 I’m currently learning angulaar and react
+- 🌱 I’m currently learning angular and react
 - 📫 How to reach me - rjaindeveloper@gmail.com
 
 <!---
